@@ -1,7 +1,3 @@
-###################################
-     CHEESECAKE
-###################################
-
 Ingredients:
 4 eggs
 cream cheese
@@ -17,7 +13,7 @@ Steps:
 7. Using a hand beater, mix until fully blended.
 8. Put the mixture into a container.
 9. Bake in the oven for 50 minutes.
-10. Enjoy!
+10. Enjoy!!!!
 
 
 
